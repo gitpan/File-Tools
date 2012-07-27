@@ -1,24 +1,21 @@
-Build.PL
-Makefile.PL
-README
 Changes
-MANIFEST               This list of files
-META.yml
-
 lib/File/Tools.pm
-
+Makefile.PL
+MANIFEST
+MYMETA.json
+MYMETA.yml
+README
 t/01-load.t
 t/02-small.t
+t/10-all.t
 t/cut.t
+t/data/file1
+t/data/file2
 t/iterators.t
 t/oop.t
 t/tar.t
 t/uniq.t
-
 xt/90-pod.t
 xt/91-pod-coverage.t
-xt/99-critic.t
-
-t/data/file1
-t/data/file2
-
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
