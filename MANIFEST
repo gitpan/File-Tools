@@ -1,9 +1,7 @@
 Changes
 lib/File/Tools.pm
 Makefile.PL
-MANIFEST
-MYMETA.json
-MYMETA.yml
+MANIFEST			This list of files
 README
 t/01-load.t
 t/02-small.t

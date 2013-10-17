@@ -6,11 +6,9 @@ build_requires:
   File::Temp: 0
   Test::More: 0.80
   Test::NoWarnings: 0
-configure_requires:
-  ExtUtils::MakeMaker: 0
 dynamic_config: 1
-generated_by: 'ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112150'
-license: unknown
+generated_by: 'ExtUtils::MakeMaker version 6.8, CPAN::Meta::Converter version 2.120921'
+license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
   version: 1.4
@@ -28,5 +26,5 @@ requires:
   File::Temp: 0
   POSIX: 0
 resources:
-  x_Repository: http://github.com/szabgab/File-Tools
-version: 0.06
+  repository: https://github.com/szabgab/File-Tools.git
+version: 0.08
