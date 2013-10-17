@@ -27,4 +27,4 @@ requires:
   POSIX: 0
 resources:
   repository: https://github.com/szabgab/File-Tools.git
-version: 0.08
+version: 0.09
